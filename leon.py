@@ -1,1 +1,0 @@
-print ("ich werde alles schaffen!")
